@@ -1,5 +1,3 @@
-# Atividade-class-Adulto
-
 void main() {
   Adulto adulto = Adulto();
   print("O peso medido é: ");
